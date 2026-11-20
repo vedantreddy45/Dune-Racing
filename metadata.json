@@ -1,0 +1,6 @@
+{
+  "name": "Dune Runners",
+  "description": "Multiplayer 3D off-road arcade buggy racing game with local split-screen, customizable vehicles, power-ups, 3km tracks, and time leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
